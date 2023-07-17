@@ -69,6 +69,7 @@ body {
 .football-description h1 {
   font-size: 24px;
   color: #39930d;
+  margin-bottom: 0;
 }
 
 .football-description p {
@@ -87,6 +88,10 @@ body {
   padding: 16px 20px;
   font-size: 18px;
   color: #fff;
+}
+
+.menu {
+  padding-left: 20px;
 }
 
 .menu li {
